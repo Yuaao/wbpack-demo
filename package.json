@@ -43,7 +43,7 @@
     "@babel/polyfill": "^7.7.0",
     "@babel/runtime": "^7.7.6",
     "@babel/runtime-corejs2": "^7.7.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "style-loader": "^1.0.1"
   }
 }
